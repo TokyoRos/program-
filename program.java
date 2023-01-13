@@ -23,6 +23,6 @@ public class MyClass {
 		System.out.println(" \n");
 		// this print normally
 		System.out.print("Wait patiently and the fruit will fall into your hand.\n");
-	}
+	} 
 
 }
